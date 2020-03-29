@@ -1,4 +1,4 @@
-package chris.command.cmd;
+package chris_command.cmd;
 
 @FunctionalInterface
 public interface Command {
