@@ -1,4 +1,4 @@
-package chris_command.rpn;
+package chris_command;
 
 import java.util.ArrayList;
 import java.util.List;
